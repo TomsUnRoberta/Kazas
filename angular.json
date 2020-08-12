@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tomsUnRoberta"
+    }
+  },
+  "defaultProject": "tomsUnRoberta",
+  "cli": {
+    "analytics": false
+  }
 }
